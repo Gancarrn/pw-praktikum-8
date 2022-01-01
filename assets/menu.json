@@ -1,0 +1,86 @@
+{
+    "menu": [
+        {
+            "jenis" : "Makanan",
+            "nama": "Big Mac",
+            "deskripsi": "Burger Ikonik McDonald's. Dua lapis daging sapi gurih disajikan dengan saus spesial, selada segar, keju, acar timun, bawang, diapit roti bertabur wijen",
+            "harga": "Rp 28.636",
+            "estimasi": "",
+            "gambar": "bigmac.png"
+        },
+        {
+            "jenis" : "Makanan",
+            "nama": "PaNas 1 Ayam Gulai McD",
+            "deskripsi": "Menu spesial Ayam Gulai McD dengan Ayam Goreng khas McDonald's yang renyah lengkap dengan minuman Tehbotol Sosro Kotak. Tersedia dalam pilihan Ayam Krispy atau Spicy",
+            "harga": "Rp 38.500",
+            "estimasi": "",
+            "gambar": "panas1.png"
+        },
+        {
+            "jenis" : "Makanan",
+            "nama": "Chicken Fingers",
+            "deskripsi": "Daging ayam lembut yang di balut dengan tepung yang renyah",
+            "harga": "Rp 13.500",
+            "estimasi": "",
+            "gambar": "chickenfingers.png"
+        },
+        {
+            "jenis" : "Makanan",
+            "nama": "Fish Prosperity Burger",
+            "deskripsi": "Burger dengan daging fillet ikan Nila dengan saus lada hitam/black pepper, ditambah dengan bawang bombai, yang disajikan dalam setangkup roti panjang bertabur wijen.",
+            "harga": "Rp 37.500",
+            "estimasi": "",
+            "gambar": "fishburger.png"
+        },
+
+        {
+            "jenis" : "Minuman",
+            "nama": "Pomegranate Fizz",
+            "deskripsi": "minuman bersoda dengan rasa manis segar buah delima.",
+            "harga": "Rp 17.000",
+            "estimasi": "",
+            "gambar": "pomegranate.png"
+        },
+        {
+            "jenis" : "Minuman",
+            "nama": "Fruit Tea Lemon",
+            "deskripsi": "Teh rasa buah lemon yang segar",
+            "harga": "Rp 8.500",
+            "estimasi": "",
+            "gambar": "fruittea.png"
+        },
+        {
+            "jenis" : "Minuman",
+            "nama": "Fanta",
+            "deskripsi": "Minuman berkarbonasi dengan rasa strawberry",
+            "harga": "Rp 8.500",
+            "estimasi": "",
+            "gambar": "fanta.png"
+        },
+
+        {
+            "jenis" : "Dessert",
+            "nama": "Tiramisu McFlurry with Biscoff",
+            "deskripsi": "Perpaduan Vanilla soft ice cream McD dengan citarasa Tiramisu khas Italia dengan biskuit Biscoff crumbs yang renyah.",
+            "harga": "Rp 16.000",
+            "estimasi": "",
+            "gambar": "tiramisu.png"
+        },
+        {
+            "jenis" : "Dessert",
+            "nama": "Tiramisu McFlurry with Oreo",
+            "deskripsi": "Perpaduan Vanilla soft ice cream McD dengan citarasa Tiramisu khas Italia dengan Oreo Crumbs.",
+            "harga": "Rp 16.000",
+            "estimasi": "",
+            "gambar": "tiramisuoreo.png"
+        },
+        {
+            "jenis" : "Dessert",
+            "nama": "Chocolate Sundae",
+            "deskripsi": "Es krim vanilla lembut dengan pilihan topping saus coklat",
+            "harga": "Rp 10.500",
+            "estimasi": "",
+            "gambar": "sundae.png"
+        }
+    ]
+}
